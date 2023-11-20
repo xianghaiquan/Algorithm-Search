@@ -27,7 +27,7 @@ int binarySearchLastIndex(vector<int> v, int value) {
         int mid = left + (right - left) / 2;
         if (v[mid] == value) {
             lastIndex = mid;
-            left = mid + 1;
+            left = mid + 1;  // 与一般的二分查找,仅此处不同
         }
         else if (v[mid] < value) {
             left = mid + 1;
