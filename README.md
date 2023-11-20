@@ -15,6 +15,11 @@
 - - [直接查找](./Code/binarySearchMax.cpp)
   - [二分查找](./Code/binarySearchMax.cpp)
 
+### 最后元素的索引
+
+- [直接查找](./Code/binarySearchLastIndex.cpp)
+- [二分查找](./Code/binarySearchLastIndex.cpp)
+
 
 
 ## 分块查找
